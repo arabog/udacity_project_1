@@ -69,7 +69,6 @@ From the CloudFront dashboard, click “Create Distribution”.
 
 ![bucket7](bucket7.png?raw=true "bucket7")
 
-![bucket8](bucket8.png?raw=true "bucket8")
 
 Leave the defaults for the rest of the options, and click “Create Distribution”. It may take up to 10 minutes for the CloudFront Distribution to get created.  
 
